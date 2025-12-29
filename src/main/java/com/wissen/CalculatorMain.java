@@ -7,6 +7,7 @@ public class CalculatorMain {
 		System.out.println("substraction of 5 and 8 is "+cal.sub(5, 8));
 		System.out.println("multiplication of 5 and 8 is "+cal.mul(5, 8));
 		System.out.println("Division of 5 and 8 is "+cal.div(5, 8));
+		System.out.println("Thank you");
 		
 	}
 }
